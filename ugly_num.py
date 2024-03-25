@@ -17,7 +17,6 @@ class Solution(object):
         
     # OR
 
-
         # if n <= 0:
         #     return False
         
